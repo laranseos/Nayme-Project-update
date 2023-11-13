@@ -1,4 +1,4 @@
-import pic1 from '../assets/pic1.png'
+import pic1 from '../assets/Pic1.png'
 
 const Whoare = () => {
   return (

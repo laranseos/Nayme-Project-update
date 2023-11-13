@@ -1,4 +1,4 @@
-import pic2 from '../assets/pic2.png'
+import pic2 from '../assets/Pic2.png'
 
 const Whyare = () => {
   return (
