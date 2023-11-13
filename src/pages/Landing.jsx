@@ -2,7 +2,7 @@
 
 import bg2 from '../assets/slider1.png'
 import bg3 from '../assets/pic4.png'
-import pic3 from '../assets/pic3.png'
+import pic3 from '../assets/Pic3.png'
 import Whoare from '../components/whoare';
 import Whyare from '../components/whyare';
 const Landing = () => {
